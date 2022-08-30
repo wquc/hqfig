@@ -29,7 +29,7 @@ def get_color_list():
     return list(color_dict.values())
 
 
-def setup_aesthetics(label_font=18, tick_font=16, axis_width=2, 
+def setup(label_font=18, tick_font=16, axis_width=2, 
     tick_major_width=2, tick_minor_width=1.5, 
     tick_major_size=5, tick_minor_size=4, 
     showmajorticks=True, showminorticks=False):
