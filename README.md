@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import hqfig
 
-hqfig.setup_aesthetics()
+hqfig.setup()
 color_list = hqfig.get_color_list()
 
 x = np.linspace(0, 2*np.pi, 100)
