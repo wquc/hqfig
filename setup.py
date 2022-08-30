@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='pubfig',
+    name='hqfig',
     version='1.0',
     description='Custom aesthetic setup for matplotlib plotting',
     author='Qi Wang',
